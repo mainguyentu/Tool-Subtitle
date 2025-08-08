@@ -30,8 +30,8 @@
 ## 🚀 Cách cài đặt
 
 ```bash
-git clone https://github.com/your-username/subtitle-embed-tool.git
-cd subtitle-embed-tool
+git clone https://github.com/mainguyentu/tools.git
+cd subtitle_tool
 python -m venv .venv
 .venv\Scripts\activate  # Trên Windows
 pip install -r requirements.txt
