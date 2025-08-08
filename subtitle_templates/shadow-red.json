@@ -1,0 +1,12 @@
+{
+  "font": "font/Roboto-LightItalic.ttf",
+  "font_size": 40,
+  "font_color": "red",
+  "border_color": "black",
+  "border_width": 2,
+  "shadow_color": "red",
+  "shadow_x": 3,
+  "shadow_y": 3,
+  "position": "bottom-center",
+  "line_spacing": 10
+}

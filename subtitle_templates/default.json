@@ -1,0 +1,12 @@
+{
+  "font": "font/OpenSans-Light.ttf",
+  "font_size": 40,
+  "font_color": "white",
+  "border_color": "black",
+  "border_width": 2,
+  "shadow_color": "black",
+  "shadow_x": 2,
+  "shadow_y": 2,
+  "position": "bottom-center",
+  "line_spacing": 10
+}

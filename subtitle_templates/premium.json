@@ -1,0 +1,13 @@
+{
+    "name": "Premium",
+    "font": "font/Montserrat-SemiBold.ttf",
+    "font_size": 38,
+    "font_color": "white",
+    "border_color": "gold",
+    "border_width": 1.5,
+    "shadow_color": "black",
+    "shadow_x": 1,
+    "shadow_y": 1,
+    "position": "bottom-center",
+    "line_spacing": 12
+  }

@@ -1,0 +1,13 @@
+{
+    "name": "Dynamic",
+    "font": "font/Roboto-Medium.ttf",
+    "font_size": 45,
+    "font_color": "yellow",
+    "border_color": "black",
+    "border_width": 3,
+    "shadow_color": "black",
+    "shadow_x": 3,
+    "shadow_y": 3,
+    "position": "top-center",
+    "line_spacing": 12
+  }
